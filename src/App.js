@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          HIII this is Chloe trying to test github actions for frontend
+          deployment on AWS <br /> Static deployment on S3 and CloudFront <br />{" "}
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
